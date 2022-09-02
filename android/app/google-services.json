@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310980951419",
+    "project_id": "abirchatapp",
+    "storage_bucket": "abirchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310980951419:android:c5feaef67d9c717f7e91de",
+        "android_client_info": {
+          "package_name": "com.example.abirchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310980951419-rj0nbt5rt04bsjau0ibhmo4rjhodbir4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ2rNT1s4dSkjlclKuTIuPqfIA8_umTkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310980951419-rj0nbt5rt04bsjau0ibhmo4rjhodbir4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
